@@ -20,51 +20,51 @@ The main aim of the project is to build Machine Learning  algorithm to predict t
        
 2.Project Flow:
       
-      -Download the dataset.
+       -Download the dataset.
       
-      -Preprocess or clean the data.
+       -Preprocess or clean the data.
       
-      -Analyze the pre-processed data.
+       -Analyze the pre-processed data.
       
-      -Train the machine with preprocessed data using an appropriate machine learning algorithm.
+       -Train the machine with preprocessed data using an appropriate machine learning algorithm.
       
-      -Save the model and its dependencies.
+       -Save the model and its dependencies.
       
-      -Build a Web application using flask that integrates with the model built.
+       -Build a Web application using flask that integrates with the model built.
 
 3.Pre-Requisites:
         
-        -Anaconda Navigator 
+        - Anaconda Navigator 
 
-        -Python packages
+        - Python packages
          
-         - NumPy
+              - NumPy
          
-         - Pandas
+              - Pandas
          
-         - Matplotlib
+              - Matplotlib
          
-         - Scikit-learn
+              - Scikit-learn
          
-         - Flask
+              - Flask
       
-      -Prior Knowledge
+        -Prior Knowledge
          
-         - Supervised and Unsupervised learning
+              - Supervised and Unsupervised learning
          
-         - Linear Regression
+              - Linear Regression
          
-         - Jupyter Notebook
+              - Jupyter Notebook
 
 4.Project Structure:
 
-     - Car Petrol Consumption Prediction.ipynb is the jupyter notebook file where the model is built.
+       - Car Petrol Consumption Prediction.ipynb is the jupyter notebook file where the model is built.
      
-     - Dataset.zip is the dataset file used in this project.
+       - Dataset.zip is the dataset file used in this project.
      
-     - model.save is the model file that generates when the notebook file is executed.
+       - model.save is the model file that generates when the notebook file is executed.
      
-     - Flask folder is the application folder where the web application and server-side program are present.
+       - Flask folder is the application folder where the web application and server-side program are present.
      
-     - Measurements.csv & measurements.xlsx are the dataset files
+       - Measurements.csv & measurements.xlsx are the dataset files
 
